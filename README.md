@@ -147,6 +147,7 @@ tom
 Joe 
 Sam 
 Sit 
+
 ```
 
 cat < newfile 
@@ -154,8 +155,10 @@ cat < newfile
 Hello world
 hello world
 ^d
-````
+
+```
 cat > newfile 
+
 ```
 Hello world
 hello world
@@ -596,7 +599,7 @@ www.google.com
 www.mrcet.com
 ```
 
-#Backup commands
+# Backup commands
 
 tar -cvf backup.tar *
 
@@ -674,13 +677,11 @@ file1         forinfile.sh  one
 echo '#!/bin/sh' > my-script.sh
 
 echo 'echo Hello World‘; exit 0 >> my-script.sh
-```
+
 chmod 755 my-script.sh
 
 ./my-script.sh
 
-## OUTPUT
-```
 ```
  
 cat << stop > herecheck.txt
