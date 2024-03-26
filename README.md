@@ -1,7 +1,8 @@
+# Name: Sri Vignesh G
+# Register Number: 212223040204
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
-# Linux commands-Shell scripting
-Linux commands-Shell scripting
 
 # AIM:
 To practice Linux Commands and Shell Scripting
